@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/real-rpj11/chatapp#readme",
   "dependencies": {
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "socket.io": "^3.1.0"
   }
 }
